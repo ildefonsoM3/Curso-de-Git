@@ -27,3 +27,10 @@ experimento 7
 experimento 8
 
 experimento 9
+
+
+
+
+
+
+Entrando en la cabaña se encontraron restos de una pelea pero no cualquier pelea sino... git stash
